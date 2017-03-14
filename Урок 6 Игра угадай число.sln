@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Урок 6 Игра угадай число", "Урок 6 Игра угадай число\Урок 6 Игра угадай число.vcxproj", "{CB85AEFC-05B8-4717-8CE3-884CF41A0187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB85AEFC-05B8-4717-8CE3-884CF41A0187}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CB85AEFC-05B8-4717-8CE3-884CF41A0187}.Debug|Win32.Build.0 = Debug|Win32
+		{CB85AEFC-05B8-4717-8CE3-884CF41A0187}.Release|Win32.ActiveCfg = Release|Win32
+		{CB85AEFC-05B8-4717-8CE3-884CF41A0187}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
